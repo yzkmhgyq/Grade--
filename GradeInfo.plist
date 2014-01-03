@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>object</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>问题5</string>
+			<key>description</key>
+			<string>您对大厦的服务是否满意？</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>问题1</string>
+			<key>description</key>
+			<string>您觉得洗手间是否干净整洁?</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>问题2</string>
+			<key>description</key>
+			<string> 您觉得停车收费的规则是否合理?</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>问题3</string>
+			<key>description</key>
+			<string>您觉得餐饮品牌是否丰富？</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>问题4</string>
+			<key>description</key>
+			<string>您觉得公共设施指示牌是否醒目？</string>
+		</dict>
+	</array>
+</dict>
+</plist>
