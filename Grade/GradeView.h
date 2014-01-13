@@ -12,7 +12,6 @@
 
 @property (nonatomic, strong) IBOutlet UILabel *description;
 @property (nonatomic, strong) IBOutlet UIImageView *imageViewOne;
-//@property (nonatomic, strong) IBOutlet UIImageView *imageViewTwo;
 @property (nonatomic, strong) IBOutlet UIImageView *imageViewThree;
 
 
